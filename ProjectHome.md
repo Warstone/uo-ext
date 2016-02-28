@@ -1,0 +1,1 @@
+Ultima Online client patch which enables modifying UO protocol and client game logic via WinAPI hook.
